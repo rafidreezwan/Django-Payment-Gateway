@@ -1,4 +1,4 @@
-# Django aamarPay File Upload System
+# Django Payment-Gated aamarPay File Upload System
 
 This project is a Django application that allows users to upload files after completing a payment via the aamarPay sandbox. It uses Celery and Redis for background processing.
 
